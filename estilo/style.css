@@ -59,7 +59,7 @@ header > p {
     font-family: var(--fonte-destaque);
     font-size: 1.5em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.349);
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 nav {
